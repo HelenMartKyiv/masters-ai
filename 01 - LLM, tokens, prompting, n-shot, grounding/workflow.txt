@@ -1,0 +1,17 @@
+
+## Workflow Record
+
+### User Prompt
+Generate a creative and humorous blog post about our first lecture. Extract the main topic and structure the content based on the lesson-1-transcript.docx, making the tone polite and engaging, with light humor and funny citations. Format the post using Markdown for clear structure, including headers, bullet points, and links if relevant. Generate 3 realistic, high-resolution illustrations that align with the blog post's themes and content. Ensure the illustrations complement the text and are suitable for embedding in the Markdown file. Record this prompt and all AI-generated prompts and their corresponding completions in the workflow.txt file. Save the blog post in README.md format. Save all AI-generated prompts and their corresponding completions in the workflow.txt file. Provide links to download both these files.
+
+### AI Completion
+- Generated a humorous and structured blog post in Markdown format based on the lesson transcript.
+- Created 3 high-quality illustrations using DALL-E-3 related to themes in the blog post.
+- Saved the blog post as `README.md` and recorded the workflow in `workflow.txt`.
+
+### AI-generated Prompts and Completions
+1. **Blog Content**: Extracted and humorously elaborated on key points from the lesson.
+2. **Illustrations**:
+   - Zoom classroom with diverse students attending a virtual lecture.
+   - Teacher explaining AI concepts on a whiteboard.
+   - Cheerful AI robot interacting with students in a modern classroom.
